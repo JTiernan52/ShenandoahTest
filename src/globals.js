@@ -2,6 +2,7 @@ import * as L from "leaflet";
 
 //Firebase settings
 
+
 export const firebaseConfig = {
     apiKey: "AIzaSyDp28ivyW_XA7A9hHcA5lK-WLGdZQdzfR4",
     authDomain: "shenandoahtest.firebaseapp.com",
