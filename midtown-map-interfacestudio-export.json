@@ -1,0 +1,142 @@
+{
+  "comments" : {
+    "_7luwn3dx6" : {
+      "comment" : "Test editing",
+      "commentBy" : "Nick",
+      "email" : "",
+      "featured" : false,
+      "hidden" : true,
+      "live" : false,
+      "neighboorhood" : "Hough",
+      "submittedOn" : "2020-08-10T00:56:33.455Z",
+      "type" : "idea",
+      "upvote" : 0,
+      "visit" : false,
+      "work" : true
+    },
+    "_hyxr58h90" : {
+      "comment" : "Testing again",
+      "commentBy" : "Nick",
+      "email" : "",
+      "featured" : true,
+      "hidden" : true,
+      "live" : false,
+      "neighboorhood" : "University Circle",
+      "submittedOn" : "2020-08-10T00:36:58.497Z",
+      "type" : "place",
+      "upvote" : 0,
+      "visit" : true,
+      "work" : false
+    },
+    "_slagikqmq" : {
+      "comment" : "I am a traffic cone",
+      "commentBy" : "Cone",
+      "email" : "",
+      "featured" : true,
+      "hidden" : true,
+      "live" : false,
+      "neighboorhood" : "MidTown",
+      "submittedOn" : "2020-08-10T00:51:56.146Z",
+      "type" : "issue",
+      "upvote" : 0,
+      "visit" : false,
+      "work" : true
+    }
+  },
+  "points" : {
+    "_7luwn3dx6" : {
+      "hidden" : true,
+      "lat" : -81.64249420166017,
+      "lng" : 41.51281929990383,
+      "type" : "idea"
+    },
+    "_hyxr58h90" : {
+      "hidden" : true,
+      "lat" : -81.65798664093019,
+      "lng" : 41.50369222300198,
+      "type" : "place"
+    },
+    "_slagikqmq" : {
+      "hidden" : true,
+      "lat" : -81.64665699005128,
+      "lng" : 41.50494566541069,
+      "type" : "issue"
+    }
+  },
+  "replies" : {
+    "_hyxr58h90" : {
+      "_ea3w0ii6i" : {
+        "comment" : "This is a longer reply comment to see if it resizes the window",
+        "commentBy" : "Not Nick",
+        "hidden" : false,
+        "live" : false,
+        "neighboorhood" : "",
+        "submittedOn" : "2020-08-10T00:43:32.429Z",
+        "upvote" : 0,
+        "visit" : true,
+        "work" : false
+      },
+      "_t8fsyinih" : {
+        "comment" : "Great Story!",
+        "commentBy" : "Chris",
+        "hidden" : false,
+        "live" : false,
+        "neighboorhood" : "",
+        "submittedOn" : "2020-08-10T00:43:22.367Z",
+        "upvote" : 0,
+        "visit" : true,
+        "work" : false
+      }
+    },
+    "_slagikqmq" : {
+      "_1evd6if4h" : {
+        "comment" : "Thank you for your service",
+        "commentBy" : "Chris",
+        "hidden" : true,
+        "key" : "_1evd6if4h",
+        "live" : false,
+        "neighboorhood" : "",
+        "submittedOn" : "2020-08-10T01:52:40.423Z",
+        "upvote" : 0,
+        "visit" : true,
+        "work" : false
+      },
+      "_76217v0mm" : {
+        "comment" : "Testing another one. Formatting looks better.",
+        "commentBy" : "Nick",
+        "hidden" : false,
+        "live" : false,
+        "neighboorhood" : "",
+        "submittedOn" : "2020-08-10T01:12:08.129Z",
+        "upvote" : 0,
+        "visit" : false,
+        "work" : false
+      },
+      "_nkvpagqrz" : {
+        "comment" : "Thanks for your service!",
+        "commentBy" : "Nick",
+        "hidden" : true,
+        "key" : "_nkvpagqrz",
+        "live" : true,
+        "neighboorhood" : "",
+        "submittedOn" : "2020-08-10T01:09:34.732Z",
+        "upvote" : 0,
+        "visit" : false,
+        "work" : false
+      },
+      "_ohcetxcol" : {
+        "comment" : "Thank you for your service..",
+        "commentBy" : "Chris",
+        "hidden" : true,
+        "key" : "_ohcetxcol",
+        "live" : false,
+        "neighboorhood" : "",
+        "submittedOn" : "2020-08-10T01:51:46.991Z",
+        "upvote" : 0,
+        "visit" : true,
+        "work" : false
+      }
+    },
+    "sadfasdgdf" : "dsfgsdfgdf"
+  }
+}
