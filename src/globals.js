@@ -6,6 +6,7 @@ import * as L from "leaflet";
 export const firebaseConfig = {
     apiKey: "AIzaSyDp28ivyW_XA7A9hHcA5lK-WLGdZQdzfR4",
     authDomain: "shenandoahtest.firebaseapp.com",
+    databaseURL: "https://shenandoahtest-default-rtdb.firebaseio.com",
     projectId: "shenandoahtest",
     storageBucket: "shenandoahtest.appspot.com",
     messagingSenderId: "384244814676",
