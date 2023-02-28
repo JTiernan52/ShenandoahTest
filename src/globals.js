@@ -3,16 +3,28 @@ import * as L from "leaflet";
 //Firebase settings
 
 
-export const firebaseConfig = {
-    apiKey: "AIzaSyDp28ivyW_XA7A9hHcA5lK-WLGdZQdzfR4",
-    authDomain: "shenandoahtest.firebaseapp.com",
-    databaseURL: "https://shenandoahtest-default-rtdb.firebaseio.com",
-    projectId: "shenandoahtest",
-    storageBucket: "shenandoahtest.appspot.com",
-    messagingSenderId: "384244814676",
-    appId: "1:384244814676:web:6483a2c4527cafe460aec1",
-    measurementId: "G-Q5TQ1W1F10"
-  };
+export const firebaseConfig = // Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyDp28ivyW_XA7A9hHcA5lK-WLGdZQdzfR4",
+  authDomain: "shenandoahtest.firebaseapp.com",
+  databaseURL: "https://shenandoahtest-default-rtdb.firebaseio.com",
+  projectId: "shenandoahtest",
+  storageBucket: "shenandoahtest.appspot.com",
+  messagingSenderId: "384244814676",
+  appId: "1:384244814676:web:6483a2c4527cafe460aec1",
+  measurementId: "G-Q5TQ1W1F10"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);;
 
 //icons
 
